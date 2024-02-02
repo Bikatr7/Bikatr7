@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**Bikatr7/Bikatr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Bikatr7, I'm currently juggling two major projects of mine at the moment: [Seisen](https://github.com/Bikatr7/Seisen) and [Kudasai](https://github.com/Bikatr7/Kudasai)
 
-Here are some ideas to get you started:
+Kudasai is A Japanese-English preprocessor with automated translation capabilities using OpenAI and DeepL APIs, operable via CLI, WebGUI, or Console. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And Seisen is my custom Japanese trainer that I'm still heavily working on!
+
+Currently furthering my intresting in Japanese and NLP
+
+Always looking for help on a project, feel free to email me at [Tetralon07@gmail.com](mailto:Tetralon07@gmail.com)
+
+They/Them
