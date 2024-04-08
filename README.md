@@ -2,7 +2,7 @@
 
 My name is Bikatr7, I'm currently juggling school, work and my major project at the moment: [Kudasai](https://github.com/Bikatr7/Kudasai)
 
-Currently working on extracting Kudasai's translation functionality to an external library: [EasyTL](https://github.com/Bikatr7/EasyTL)
+Currently working on a personal github pages website, and considering adding an additional translation method to EasyTL for Kudasai.
 
 Always looking to talk about programming or potential projects, feel free to email me at [Tetralon07@gmail.com](mailto:Tetralon07@gmail.com) about anything!
 
