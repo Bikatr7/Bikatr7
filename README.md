@@ -1,8 +1,8 @@
 ### Hello!
 
-My name is Bikatr7, I'm currently juggling school, work and my major project at the moment: [Kudasai](https://github.com/Bikatr7/Kudasai)
+My name is Bikatr7, I'm currently juggling school, work and my major project at the moment: [EasyTL](https://github.com/Bikatr7/EasyTL)
 
-Currently working on a personal github pages website, and considering adding an additional translation method to EasyTL for Kudasai.
+Currently working on expanding that and working on [Kakusui.org](https://kakusui.org)
 
 Always looking to talk about programming or potential projects, feel free to email me at [Tetralon07@gmail.com](mailto:Tetralon07@gmail.com) about anything!
 
