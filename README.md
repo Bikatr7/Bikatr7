@@ -4,7 +4,7 @@ I'm Bikatr7, a rising junior majoring in Computer Science with a minor in Japane
 
 📚 **Currently prepping for finals and juggling a handful of personal projects:**
 
-- **[EasyTL](https://github.com/Bikatr7/EasyTL)**: A package providing seamless multi-API translation, simplifying language barriers with DeepL, OpenAI, and Gemini.
+- **[EasyTL](https://github.com/Bikatr7/EasyTL)**: A package providing seamless multi-API translation, simplifying language barriers with DeepL, OpenAI, Gemini, and Google Translate.
 - **[Kudasai](https://github.com/Bikatr7/Kudasai)**: Streamlining Japanese-English translation through advanced preprocessing and integrated translation technologies.
 - **[Kakusui.org](https://kakusui.org)**: Homepage under development for Kakusui and related projects. [Source code available here](https://github.com/Kakusui/kakusui-org).
 
