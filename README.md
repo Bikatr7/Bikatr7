@@ -30,3 +30,7 @@ Currently looking for internships or part time work, if you need someone locally
 ### Most used languages
 
 ![Bikatr7's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikatr7&size_weight=0.25&count_weight=0.5&layout=donut&theme=highcontrast&langs_count=8)
+
+## WakaTime Graph (Just started May 15)
+
+![Bikatr7's WakaTime Graph](https://github-readme-stats.vercel.app/api/wakatime?username=Bikatr7&theme=highcontrast&layout=compact)
