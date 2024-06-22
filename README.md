@@ -13,7 +13,7 @@ I'm Kaden Bilyeu (Bikatr7), a rising junior majoring in Computer Science with a 
 - **[Kudasai](https://github.com/Bikatr7/Kudasai)**: Streamlining Japanese-English translation through advanced preprocessing and integrated translation technologies.
 
 ### **Kakusui.org**
-- **[Kakusui.org](https://kakusui.org)**: Homepage under development for Kakusui and related projects. [Source code available here](https://github.com/Kakusui/kakusui-org).
+- **[Kakusui.org](https://kakusui.org)**: Homepage under development for Kakusui and related projects. [Source code available here](https://github.com/Kakusui/kakusui.org).
 
 ## 📫 Contact Me
 
