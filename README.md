@@ -11,7 +11,7 @@ I'm Kaden Bilyeu (Bikatr7), a rising junior majoring in Computer Science with a 
 
 ### **Elucidate**
 - **[Elucidate](https://github.com/Kakusui/Elucidate)**: A package that aims to improve machine translation through LLM self-evaluation.
-- 
+  
 ### **Kakusui.org**
 - **[Kakusui.org](https://kakusui.org)**: Homepage under development for Kakusui and related projects. [Source code available here](https://github.com/Kakusui/kakusui.org).
 
