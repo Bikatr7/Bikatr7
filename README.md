@@ -1,6 +1,8 @@
 # Hello! 👋
 
-I'm Kaden Bilyeu (Bikatr7), a rising junior majoring in Computer Science with a minor in Japanese at UCCS. My work primarily focuses on Japanese-related projects, exploring applications in NER/NLP, AI, and large language models (LLM) within software development. 
+I'm Kaden Bilyeu (Bikatr7), a rising junior majoring in Computer Science with a minor in Japanese at UCCS. My work primarily focuses on Japanese-related projects, exploring applications in NER/NLP, AI, and large language models (LLM) within software development.
+
+Currently working on personal projects, startup ventures with my friends, and my current internship.
 
 [My website (kadenbilyeu.com)](https://kadenbilyeu.com)
 
