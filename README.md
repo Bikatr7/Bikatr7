@@ -7,17 +7,14 @@ I'm Kaden Bilyeu (Bikatr7), a rising junior majoring in Computer Science with a 
 ## 📚 What I'm Working On Now
 
 ### **kadenbilyeu.com**
-- **[kadenbilyeu.com](https://kadenbilyeu.com)**: My personal website, redesigned with newer technology (React & Vite) and a proper domain name. [Source code available here](https://github.com/Bikatr7/kadenbilyeu.com).
+- **[kadenbilyeu.com](https://kadenbilyeu.com)**: My personal website, redesigned with newer technology (React & Vite) and a proper domain name. Working on polishing my blog currently. [Source code available here](https://github.com/Bikatr7/kadenbilyeu.com).
 
-### **Elucidate**
-- **[Elucidate](https://github.com/Kakusui/Elucidate)**: A package that aims to improve machine translation through LLM self-evaluation.
-  
-### **Kakusui.org**
-- **[Kakusui.org](https://kakusui.org)**: Homepage under development for Kakusui and related projects. [Source code available here](https://github.com/Kakusui/kakusui.org).
+### **IW-cadCad**
+- **[IW-cadCad](https://github.com/index-wallet/IW-cadCAD)**: A simulation model of an index wallet powered economy.
 
 ## 📫 Contact Me
 
-- **Email**: [Bikatr7@proton.me](mailto:Bikatr7@proton.me)
+- **Email**: [kadenbilyeu@proton.me](mailto:kadenbilyeu@proton.me)
 
 Feel free to contact me about programming, potential projects, or just to chat!
 
@@ -28,7 +25,7 @@ I am currently looking for internships or part-time work. If you need someone lo
 ## 🛠️ Skills and Technologies
 
 - **Languages**: Python, Java, C, R, C++, JavaScript, TypeScript, HTML, CSS, SQL
-- **Technologies & Frameworks**: Git, OpenAI API, mysql-connector-python, DeepL API, discord.py, Gradio, SpaCy, Pillow, React, Docker, FastAPI, Flask, Vite
+- **Technologies & Frameworks**: Git, OpenAI API, mysql-connector-python, DeepL API, discord.py, Gradio, SpaCy, Pillow, React, Docker, FastAPI, Flask, Vite, Plotly, Networkx, Dash, Gemini API, fly.io
 
 ## 📊 GitHub Stats
 
@@ -48,7 +45,7 @@ I am currently looking for internships or part-time work. If you need someone lo
 ### Current Projects
 
 [![Current Project 1 (kadenbilyeu.com)](https://github-readme-stats.vercel.app/api/pin/?username=bikatr7&repo=kadenbilyeu.com&show_owner=True&theme=highcontrast)](https://github.com/Bikatr7/kadenbilyeu.com)
-[![Current Project 2 (Elucidate)](https://github-readme-stats.vercel.app/api/pin/?username=kakusui&repo=Elucidate&show_owner=True&theme=highcontrast)](https://github.com/Kakusui/Elucidate)
+[![Current Project 2 (IW-cadCad)](https://github-readme-stats.vercel.app/api/pin/?username=index-wallet&repo=IW-cadCad&show_owner=True&theme=highcontrast)](https://github.com/index-wallet/IW-cadCad)
 
 ### Most Used Languages
 
