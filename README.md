@@ -27,7 +27,7 @@ I am currently looking for internships or part-time work. If you need someone lo
 ## 🛠️ Skills and Technologies
 
 - **Languages**: Python, Java, C, R, C++, JavaScript, TypeScript, HTML, CSS, SQL
-- **Technologies & Frameworks**: Git, OpenAI API, mysql-connector-python, DeepL API, discord.py, Gradio, SpaCy, Pillow, React, Docker, FastAPI, Flask, Vite, Plotly, Networkx, Dash, Gemini API, fly.io
+- **Technologies & Frameworks**: Git, OpenAI API, mysql-connector-python, DeepL API, discord.py, Gradio, SpaCy, Pillow, React, Docker, FastAPI, Flask, Vite, Dash, Plotly, Fly.io, NetworkX, NumPy, Pandas, Scikit-learn
 
 ## 📊 GitHub Stats
 
