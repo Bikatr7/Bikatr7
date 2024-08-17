@@ -6,7 +6,7 @@ Currently working on personal projects, startup ventures with my friends, and my
 
 [My website (kadenbilyeu.com)](https://kadenbilyeu.com)
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Bikatr7&style=flat-square) -->
+![Profile Views](https://komarev.com/ghpvc/?username=Bikatr7&style=flat-square)
 
 ## 📚 What I'm Working On Now
 
@@ -16,6 +16,9 @@ Currently working on personal projects, startup ventures with my friends, and my
 ### **IW-cadCad**
 - **[IW-cadCad](https://github.com/index-wallet/IW-cadCAD)**: A simulation model of an index wallet powered economy.
 
+### **TLTMI**
+- **[TLTMI](https://github.com/kakusui/TLTMI)**: An easy containerized way to translate locally. 
+
 ## 📫 Contact Me
 
 - **Email**: [kadenbilyeu@proton.me](mailto:kadenbilyeu@proton.me)
@@ -24,7 +27,9 @@ Feel free to contact me about programming, potential projects, or just to chat!
 
 ## ❗ Job Search
 
-I am currently looking for internships or part-time work. If you need someone locally in Colorado or for a remote position, please email me!
+I am currently looking for internships or part-time work. If you need someone locally in Colorado or for a remote position, please email me! 
+
+I would also be open to relocation for summer positions.
 
 ## 🛠️ Skills and Technologies
 
@@ -50,6 +55,7 @@ I am currently looking for internships or part-time work. If you need someone lo
 
 [![Current Project 1 (kadenbilyeu.com)](https://github-readme-stats.vercel.app/api/pin/?username=bikatr7&repo=kadenbilyeu.com&show_owner=True&theme=highcontrast)](https://github.com/Bikatr7/kadenbilyeu.com)
 [![Current Project 2 (IW-cadCad)](https://github-readme-stats.vercel.app/api/pin/?username=index-wallet&repo=IW-cadCad&show_owner=True&theme=highcontrast)](https://github.com/index-wallet/IW-cadCad)
+[![Current Project 3 (TLTMI)](https://github-readme-stats.vercel.app/api/pin/?username=kakusui&repo=TLTMI&show_owner=True&theme=highcontrast)](https://github.com/kakusui/TLTMI)
 
 ### Most Used Languages
 
