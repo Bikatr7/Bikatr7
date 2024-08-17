@@ -6,6 +6,8 @@ Currently working on personal projects, startup ventures with my friends, and my
 
 [My website (kadenbilyeu.com)](https://kadenbilyeu.com)
 
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Bikatr7&style=flat-square) -->
+
 ## 📚 What I'm Working On Now
 
 ### **kadenbilyeu.com**
