@@ -4,6 +4,8 @@ I'm Kaden Bilyeu (Bikatr7), a rising junior majoring in Computer Science with a 
 
 Currently working on personal projects, startup ventures with my friends, and my current internship.
 
+My GitHub repository list serves as a good start for what i've done, however I also do a lot of things over at [Kakusui](https://github.com/Kakusui), so feel free to take a look at that list too!
+
 [My website (kadenbilyeu.com)](https://kadenbilyeu.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bikatr7&style=flat-square)
