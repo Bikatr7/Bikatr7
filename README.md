@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Kaden Bilyeu (Bikatr7), a rising junior majoring in Computer Science with a minor in Japanese at UCCS. My work primarily focuses on Japanese-related projects, exploring applications in NER/NLP, AI, and large language models (LLM) within software development.
+I'm Kaden Bilyeu (Bikatr7), a rising junior majoring in Computer Science with a minor in Japanese at UCCS. My work primarily focuses on Japanese-related projects, exploring applications in NER/NLP, AI/ML, and large language models (LLM) within software development.
 
 Currently working on personal projects, startup ventures with my friends, and my current internship.
 
@@ -12,14 +12,9 @@ My GitHub repository list serves as a good start for what i've done, however I a
 
 ## 📚 What I'm Working On Now
 
-### **kadenbilyeu.com**
-- **[kadenbilyeu.com](https://kadenbilyeu.com)**: My personal website, redesigned with newer technology (React & Vite) and a proper domain name. Working on polishing my blog currently. [Source code available here](https://github.com/Bikatr7/kadenbilyeu.com).
+### **kakusui.org**
+- **[kakusui.org](https://kakusui.org)**: Source code for kakusui.org, featuring our translation endeavors and FOSS products. [Source code available here](https://github.com/Kakusui/kakusui.org).
 
-### **IW-cadCad**
-- **[IW-cadCad](https://github.com/index-wallet/IW-cadCAD)**: A simulation model of an index wallet powered economy.
-
-### **TLTMI**
-- **[TLTMI](https://github.com/kakusui/TLTMI)**: An easy containerized way to translate locally. 
 
 ## 📫 Contact Me
 
@@ -29,7 +24,7 @@ Feel free to contact me about programming, potential projects, or just to chat!
 
 ## ❗ Job Search
 
-I am currently looking for internships or part-time work. If you need someone locally in Colorado or for a remote position, please email me! 
+I am currently looking for internships or part-time work for Spring 2025 (After November 2024) and Summer 2025 If you need someone locally in Colorado Springs or for a remote position, please email me! 
 
 I would also be open to relocation for summer positions.
 
@@ -55,9 +50,7 @@ I would also be open to relocation for summer positions.
 
 ### Current Projects
 
-[![Current Project 1 (kadenbilyeu.com)](https://github-readme-stats.vercel.app/api/pin/?username=bikatr7&repo=kadenbilyeu.com&show_owner=True&theme=highcontrast)](https://github.com/Bikatr7/kadenbilyeu.com)
-[![Current Project 2 (IW-cadCad)](https://github-readme-stats.vercel.app/api/pin/?username=index-wallet&repo=IW-cadCad&show_owner=True&theme=highcontrast)](https://github.com/index-wallet/IW-cadCad)
-[![Current Project 3 (TLTMI)](https://github-readme-stats.vercel.app/api/pin/?username=kakusui&repo=TLTMI&show_owner=True&theme=highcontrast)](https://github.com/kakusui/TLTMI)
+[![Current Project 1 (kakusui.org)](https://github-readme-stats.vercel.app/api/pin/?username=kakusui&repo=kakusui.org&show_owner=True&theme=highcontrast)](https://github.com/kakusui/kakusui.org)
 
 ### Most Used Languages
 
