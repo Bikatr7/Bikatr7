@@ -1,12 +1,14 @@
 # Hello! 👋
 
-I'm Kaden Bilyeu (Bikatr7), a rising junior majoring in Computer Science with a minor in Japanese at UCCS. My work primarily focuses on Japanese-related projects, exploring applications in NER/NLP, AI/ML, and large language models (LLM) within software development.
+I'm Kaden Bilyeu (Bikatr7), a rising junior majoring in Computer Science with a minor in Japanese at UCCS. My work primarily focuses on Japanese-related projects, exploring applications in NER/NLP, AI/ML, data science, and large language models (LLM) within software for real world applications.
 
-Currently working on personal projects, startup ventures with my friends, and my current internship.
+Currently working on personal projects, startup ventures with my friends, and my current internship. I also spent a lot of time working on [Kakusui](https://kakusui.org), but this is more of a learning experience for me, rather than me trying to make something tangible.
 
-My GitHub repository list serves as a good start for what i've done, however I also do a lot of things over at [Kakusui](https://github.com/Kakusui), so feel free to take a look at that list too!
+My GitHub repository list serves as a good start for what i've done, however I also do a lot of things over at [Kakusui GitHub](https://github.com/Kakusui), so feel free to take a look at that list too!
 
 [My website (kadenbilyeu.com)](https://kadenbilyeu.com)
+
+[Resume](https://kadenbilyeu.com/assets/Kaden_Bilyeu_September_2024_Resume-OKZI5wkJ.pdf) (link may break as it's linked to a static asset, if so, head to [kadenbilyeu.com](https://kadenbilyeu.com) and click the resume button in the top right.)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bikatr7&style=flat-square)
 
@@ -14,7 +16,6 @@ My GitHub repository list serves as a good start for what i've done, however I a
 
 ### **kakusui.org**
 - **[kakusui.org](https://kakusui.org)**: Source code for kakusui.org, featuring our translation endeavors and FOSS products. [Source code available here](https://github.com/Kakusui/kakusui.org).
-
 
 ## 📫 Contact Me
 
@@ -30,8 +31,13 @@ I would also be open to relocation for summer positions.
 
 ## 🛠️ Skills and Technologies
 
-- **Languages**: Python, Java, C, R, C++, JavaScript, TypeScript, HTML, CSS, SQL
-- **Technologies & Frameworks**: Git, OpenAI API, mysql-connector-python, DeepL API, discord.py, Gradio, SpaCy, Pillow, React, Docker, FastAPI, Flask, Vite, Dash, Plotly, Fly.io, NetworkX, NumPy, Pandas, Scikit-learn
+| Category                   | Skills                                                                                             |
+|----------------------------|---------------------------------------------------------------------------------------------------|
+| **Programming Languages**  | Python, Java, C, R, C++, JavaScript, Typescript, Go, SQL                                           |
+| **Database Management**    | MySQL, Oracle SQL, PL/SQL, SQLite, Data Backup and Recovery, Database Security                     |
+| **Technologies & Frameworks** | React, Docker, Git, GitHub, AWS, Cloudflare, FastAPI, Flask, Django, Vite, Linux, Unix, Cloudflare, NumPy, Keras, PyTorch, TensorFlow, Pandas, Scikit-learn, Plotly, Dash, NetworkX, SpaCy, Gradio, Fly.io |
+| **Methods**                | Agile software development, OOP, Debugging, Asynchronous design, CI/CD, API Integration            |
+
 
 ## 📊 GitHub Stats
 
