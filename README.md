@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Kaden Bilyeu (Bikatr7), a rising junior majoring in Computer Science with a minor in Japanese at UCCS. My work primarily focuses on Japanese-related projects, exploring applications in NER/NLP, AI/ML, data science, and large language models (LLM) within software for real world applications.
+I'm Kaden Bilyeu (Bikatr7), a junior majoring in Computer Science with a minor in Japanese at UCCS. My work primarily focuses on Japanese-related projects, exploring applications in NER/NLP, AI/ML, data science, and large language models (LLM) within software for real world applications.
 
 Currently working on personal projects, startup ventures with my friends, and my current internship. I also spent a lot of time working on [Kakusui](https://kakusui.org), but this is more of a learning experience for me, rather than me trying to make something tangible.
 
@@ -8,14 +8,17 @@ My GitHub repository list serves as a good start for what i've done, however I a
 
 [My website (kadenbilyeu.com)](https://kadenbilyeu.com)
 
-[Resume](https://kadenbilyeu.com/assets/Kaden_Bilyeu_September_2024_Resume-OKZI5wkJ.pdf) (link may break as it's linked to a static asset, if so, head to [kadenbilyeu.com](https://kadenbilyeu.com) and click the resume button in the top right.)
+[Resume](https://kadenbilyeu.com/assets/Kaden_Truett_Bilyeu_Resume_December_2024-DlzflmyA.pdf) (link may break as it's linked to a static asset, if so, head to [kadenbilyeu.com](https://kadenbilyeu.com) and click the resume button in the top right.)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bikatr7&style=flat-square)
 
 ## 📚 What I'm Working On Now
 
-### **kakusui.org**
-- **[kakusui.org](https://kakusui.org)**: Source code for kakusui.org, featuring our translation endeavors and FOSS products. [Source code available here](https://github.com/Kakusui/kakusui.org).
+### **Negation Game**
+- **[Negation Game](https://negationgame.com)**: A really cool project I'm working on as part of my internship. [Source code available here](https://github.com/network-goods-institute/negation-game).
+
+### **Adevent of Code 2024**
+- I'm working on solving the Advent of Code 2024 problems, my repo is private as of now but I'll make it public after the 25th. I do post some of the solutions on my Twitter though (same username).
 
 ## 📫 Contact Me
 
@@ -25,9 +28,7 @@ Feel free to contact me about programming, potential projects, or just to chat!
 
 ## ❗ Job Search
 
-I am currently looking for internships or part-time work for Spring 2025 (After November 2024) and Summer 2025 If you need someone locally in Colorado Springs or for a remote position, please email me! 
-
-I would also be open to relocation for summer positions.
+I've been lucky enough to already secure internship opportunities for Spring and Summer 2025. However, if you wish to talk about other opportunities, please reach out to me via any of the methods below.
 
 ## 🛠️ Skills and Technologies
 
@@ -38,6 +39,12 @@ I would also be open to relocation for summer positions.
 | **Technologies & Frameworks** | React, Docker, Git, GitHub, AWS, Cloudflare, FastAPI, Flask, Django, Vite, Linux, Unix, Cloudflare, NumPy, Keras, PyTorch, TensorFlow, Pandas, Scikit-learn, Plotly, Dash, NetworkX, SpaCy, Gradio, Fly.io |
 | **Methods**                | Agile software development, OOP, Debugging, Asynchronous design, CI/CD, API Integration            |
 
+
+Currently developing skills in the following:
+
+**Supabase • Next.js • Tailwind CSS**
+
+This is due to my current internship and personal interests.
 
 ## 📊 GitHub Stats
 
@@ -56,7 +63,7 @@ I would also be open to relocation for summer positions.
 
 ### Current Projects
 
-[![Current Project 1 (kakusui.org)](https://github-readme-stats.vercel.app/api/pin/?username=kakusui&repo=kakusui.org&show_owner=True&theme=highcontrast)](https://github.com/kakusui/kakusui.org)
+[![Current Project 1 (negationgame.com)](https://github-readme-stats.vercel.app/api/pin/?username=network-goods-institute&repo=negation-game&show_owner=True&theme=highcontrast)](https://github.com/network-goods-institute/negation-game)
 
 ### Most Used Languages
 
