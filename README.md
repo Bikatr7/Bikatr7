@@ -20,6 +20,8 @@ My GitHub repository list serves as a good start for what i've done, however I a
 ### **Adevent of Code 2024**
 - I'm working on solving the Advent of Code 2024 problems, my repo is private as of now but I'll make it public after the 25th. I do post some of the solutions on my Twitter though (same username).
 
+For my statement regarding AoC 2024 see [here](https://kadenbilyeu.com/blog/a3e009b8-aca5-4686-a4c5-ca016d6d0227)
+
 ## 📫 Contact Me
 
 - **Email**: [kadenbilyeu@proton.me](mailto:kadenbilyeu@proton.me)
