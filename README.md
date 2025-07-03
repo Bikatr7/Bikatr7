@@ -1,71 +1,129 @@
-# Hello! 👋
+# 👋 Hi, I'm **Kaden Truett Bilyeu** (Bikatr7)
 
-I'm Kaden Bilyeu (Bikatr7), a junior majoring in Computer Science with a minor in Japanese at UCCS. My work primarily focuses on Japanese-related projects, exploring applications in NER/NLP, AI/ML, data science, and large language models (LLM) within software for real world applications.
+Computer Science senior at the **University of Colorado Colorado Springs** (UCCS) focused on **AI/ML, Large Language Models, NER/NLP, data science, and full‑stack development**.
 
-Currently working on personal projects, startup ventures with my friends, and my current internship. I also spent a lot of time working on [Kakusui](https://kakusui.org), but this is more of a learning experience for me, rather than me trying to make something tangible.
+**U.S. Citizen · Eligible for security clearance**
 
-My GitHub repository list serves as a good start for what i've done, however I also do a lot of things over at [Kakusui GitHub](https://github.com/Kakusui), so feel free to take a look at that list too!
+---
 
-[My website (kadenbilyeu.com)](https://kadenbilyeu.com)
+## 📫 Contact
 
-[Resume](https://kadenbilyeu.com/assets/Kaden_Truett_Bilyeu_Resume_December_2024-DlzflmyA.pdf) (link may break as it's linked to a static asset, if so, head to [kadenbilyeu.com](https://kadenbilyeu.com) and click the resume button in the top right.)
+|              |                                                                                      |
+| ------------ | ------------------------------------------------------------------------------------ |
+| **Email**    | [kadenbilyeu@proton.me](mailto:kadenbilyeu@proton.me)                                |
+| **Phone**    | 720‑298‑8977                                                                         |
+| **Location** | Colorado Springs, Colorado                                                           |
+| **LinkedIn** | [https://www.linkedin.com/in/kadenbilyeu/](https://www.linkedin.com/in/kadenbilyeu/) |
+| **Website**  | [https://kadenbilyeu.com](https://kadenbilyeu.com)                                   |
+| **GitHub**   | [https://github.com/Bikatr7](https://github.com/Bikatr7)                             |
+| **Signal**   | bikatr7.12                                                                           |
+| **Discord**  | kadenbilyeu                                                                          |
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bikatr7&style=flat-square)
+I'm currently looking for New Graduate oppurtunites and a possible Fall 2025/Spring 2026 Internship. Please contact me if I interest you.
 
-## 📚 What I'm Working On Now
+Would be especially excited for any opportunities in the defense sector, startups, or anything cool involving AI.
 
-### **Negation Game**
-- **[Negation Game](https://negationgame.com)**: A really cool project I'm working on as part of my internship. [Source code available here](https://github.com/network-goods-institute/negation-game).
+---
 
-## 📫 Contact Me
+## 🎓 Education
 
-- **Email**: [kadenbilyeu@proton.me](mailto:kadenbilyeu@proton.me)
+**B.S. Computer Science** (Cybersecurity Focus, ABET‑accredited) — *Minor in Japanese*
+University of Colorado Colorado Springs • *Aug 2022 – May 2026*
+GPA **3.67 / 4.00**
 
-Feel free to contact me about programming, potential projects, or just to chat!
+---
 
-## ❗ Job Search
+## 🛠️ Skills & Technologies
 
-I've been lucky enough to already secure internship opportunities for Spring and Summer 2025. However, if you wish to talk about other opportunities, please reach out to me via any of the methods below.
+| Category                  | Stack                                                                                                                                      |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Programming Languages** | Python, Java, C, R, C++, JavaScript, TypeScript, SQL                                                                                       |
+| **Database Management**   | MySQL, Oracle SQL, PL/SQL, SQLite, Data Backup & Recovery, Database Security                                                               |
+| **Tools & Frameworks**    | Next.js, Supabase, React, Docker, Git, GitHub, AWS, Cloudflare, FastAPI, Django, Vite, Linux, NumPy, Keras, PyTorch, Pandas, SpaCy, Fly.io |
+| **Methods**               | Agile, OOP, Debugging, Asynchronous Design, CI/CD, API Integration                                                                         |
 
-## 🛠️ Skills and Technologies
+## 💼 Experience
 
-| Category                   | Skills                                                                                             |
-|----------------------------|---------------------------------------------------------------------------------------------------|
-| **Programming Languages**  | Python, Java, C, R, C++, JavaScript, Typescript, Go, SQL                                           |
-| **Database Management**    | MySQL, Oracle SQL, PL/SQL, SQLite, Data Backup and Recovery, Database Security                     |
-| **Technologies & Frameworks** | React, Docker, Git, GitHub, AWS, Cloudflare, FastAPI, Flask, Django, Vite, Linux, Unix, Cloudflare, NumPy, Keras, PyTorch, TensorFlow, Pandas, Scikit-learn, Plotly, Dash, NetworkX, SpaCy, Gradio, Fly.io |
-| **Methods**                | Agile software development, OOP, Debugging, Asynchronous design, CI/CD, API Integration            |
+### Network Goods Institute — *Junior Full‑Stack Engineer*
 
+[https://negationgame.com](https://negationgame.com) • **Nov 2024 – Present**
 
-Currently developing skills in the following:
+* Led UX prototyping for the **Negation Game**, transforming a reputation‑staking concept into interactive TypeScript mocks and iterating with stakeholders through release.
+* Built and shipped an end‑to‑end **Next.js / React 19** platform (DB→UI) that operationalizes complex dispute‑resolution logic and unlocked follow‑on research grants.
 
-**Supabase • Next.js • Tailwind CSS**
+### UCCS Laboratory for Cybersecurity Dynamics — *Undergraduate Researcher*
 
-This is due to my current internship and personal interests.
+**Jun 2024 – Present**
+
+* Assisted in satellite cybersecurity research and large‑scale data collection initiatives.
+
+### UCCS Computer Science Department — *Teaching Assistant*
+
+**Jan 2024 – May 2025**
+
+* Coached 80+ students in R, C, and Agile practices via one‑on‑one and online sessions.
+
+### OSCorp — *AI/ML Intern*
+
+**Sep 2024 – Nov 2024**
+
+* Designed AI/ML systems for space defense using Python, C++, and PyTorch, enhancing autonomy and real‑time decision‑making capabilities.
+* Analyzed extensive space data to improve U.S. space‑domain awareness by boosting sensor search and reacquisition performance.
+
+### Network Goods Institute — *Software Engineering Intern*
+
+[https://indexwallets.org](https://indexwallets.org) • **Jul 2024 – Sep 2024**
+
+* Built a real‑time Python + Dash simulator for a novel payment mechanism, delivering interactive NetworkX‑Plotly visuals to stakeholders for strategic demos.
+
+---
+
+## 🏗️ Projects
+
+### **Negation Game**
+
+Interactive dispute‑resolution platform for reputation‑staking.
+**Live:** [https://negationgame.com](https://negationgame.com) • **Code:** [https://github.com/network-goods-institute/negation-game](https://github.com/network-goods-institute/negation-game)
+
+### **Kakusui LLC – Full‑Stack Company Website**
+
+[https://kakusui.org](https://kakusui.org) • *Apr 2024 – Present*
+
+* Translation‑as‑a‑Service business model enabling customizable language translations.
+* Runs at < \$0.15 / mo on serverless **FastAPI + Fly.io** with a **React‑Vite** frontend.
+
+### **Kudasai – Japanese‑English Preprocessor & Translator**
+
+[https://github.com/Bikatr7/kudasai](https://github.com/Bikatr7/kudasai) • *Jan 2023 – Present*
+
+* Cuts a 6‑hour manual translation workflow down to 5 minutes.
+* Integrates ChatGPT, Gemini, Anthropic, and DeepL APIs with a Python WebGUI using **Gradio** and **SpaCy** for NER/NLP.
+
+---
+
+## 🤝 Activities
+
+* **Secretary‑Treasurer**, Association of Computing Machinery (ACM) — UCCS Chapter • Oct 2024 – Present
+
+---
 
 ## 📊 GitHub Stats
 
-### Overall Stats
+[![Bikatr7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bikatr7\&show_icons=true\&theme=highcontrast)](https://github.com/bikatr7)
 
-[![Bikatr7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bikatr7&show_icons=true&theme=highcontrast)](https://github.com/bikatr7)
+### 🔒 Pinned Repositories
 
-### Pinned Repositories
+[![Pinned Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=bikatr7\&repo=kudasai\&show_owner=True\&theme=highcontrast)](https://github.com/Bikatr7/Kudasai)
+[![Pinned Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=bikatr7\&repo=easytl\&show_owner=True\&theme=highcontrast)](https://github.com/Bikatr7/EasyTL)
+[![Pinned Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=bikatr7\&repo=kairyou\&show_owner=True\&theme=highcontrast)](https://github.com/Bikatr7/Kairyou)
+[![Pinned Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=bikatr7\&repo=seisen\&show_owner=True\&theme=highcontrast)](https://github.com/Bikatr7/Seisen)
+[![Pinned Repo 5](https://github-readme-stats.vercel.app/api/pin/?username=bikatr7\&repo=kadenbilyeu.com\&show_owner=True\&theme=highcontrast)](https://github.com/Bikatr7/kadenbilyeu.com)
+[![Pinned Repo 6](https://github-readme-stats.vercel.app/api/pin/?username=kakusui\&repo=kakusui-org\&show_owner=True\&theme=highcontrast)](https://github.com/Kakusui/kakusui-org)
 
-[![Bikatr7's Pinned Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=bikatr7&repo=kudasai&show_owner=True&theme=highcontrast)](https://github.com/Bikatr7/Kudasai)
-[![Bikatr7's Pinned Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=bikatr7&repo=easytl&show_owner=True&theme=highcontrast)](https://github.com/Bikatr7/EasyTL)
-[![Bikatr7's Pinned Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=bikatr7&repo=kairyou&show_owner=True&theme=highcontrast)](https://github.com/Bikatr7/Kairyou)
-[![Bikatr7's Pinned Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=bikatr7&repo=seisen&show_owner=True&theme=highcontrast)](https://github.com/Bikatr7/Seisen)
-[![Bikatr7's Pinned Repo 5](https://github-readme-stats.vercel.app/api/pin/?username=bikatr7&repo=kadenbilyeu.com&show_owner=True&theme=highcontrast)](https://github.com/Bikatr7/kadenbilyeu.com)
-[![Bikatr7's Pinned Repo 6](https://github-readme-stats.vercel.app/api/pin/?username=kakusui&repo=kakusui-org&show_owner=True&theme=highcontrast)](https://github.com/Kakusui/kakusui-org)
+### 📈 Language Breakdown
 
-### Current Projects
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikatr7\&size_weight=0.25\&count_weight=0.5\&layout=donut\&theme=highcontrast\&langs_count=8)](https://github.com/bikatr7)
 
-[![Current Project 1 (negationgame.com)](https://github-readme-stats.vercel.app/api/pin/?username=network-goods-institute&repo=negation-game&show_owner=True&theme=highcontrast)](https://github.com/network-goods-institute/negation-game)
+---
 
-### Most Used Languages
-
-[![Bikatr7's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikatr7&size_weight=0.25&count_weight=0.5&layout=donut&theme=highcontrast&langs_count=8)](https://github.com/bikatr7)
-
-## WakaTime Graph (Started May 15)
-
-[![Bikatr7's WakaTime Graph](https://github-readme-stats.vercel.app/api/wakatime?username=Bikatr7&theme=highcontrast&layout=compact)](https://wakatime.com/@Bikatr7)
+> *Feel free to reach out about collaborations, opportunities, or just to chat tech!*
