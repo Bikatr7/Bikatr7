@@ -51,12 +51,6 @@ GPA **3.67 / 4.00**
 * Led UX prototyping for the **Negation Game**, transforming a reputation‑staking concept into interactive TypeScript mocks and iterating with stakeholders through release.
 * Built and shipped an end‑to‑end **Next.js / React 19** platform (DB→UI) that operationalizes complex dispute‑resolution logic and unlocked follow‑on research grants.
 
-### UCCS Laboratory for Cybersecurity Dynamics — *Undergraduate Researcher*
-
-**Jun 2024 – Present**
-
-* Assisted in satellite cybersecurity research and large‑scale data collection initiatives.
-
 ### UCCS Computer Science Department — *Teaching Assistant*
 
 **Jan 2024 – May 2025**
