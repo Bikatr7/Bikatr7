@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Kaden Truett Bilyeu** (Bikatr7)
 
-Computer Science senior at the **University of Colorado Colorado Springs** (UCCS) focused on **AI/ML, Large Language Models, NER/NLP, data science, and full‑stack development**.
+Computer science senior at the **University of Colorado Colorado Springs (UCCS* looking to utilize my skills in Cyber, AI/ML, LLMs, Data Science, Full Stack and NER/NLP into software for real-world applications.
 
 **U.S. Citizen · Eligible for security clearance**
 
@@ -19,7 +19,7 @@ Computer Science senior at the **University of Colorado Colorado Springs** (UCCS
 | **Signal**   | bikatr7.12                                                                           |
 | **Discord**  | kadenbilyeu                                                                          |
 
-I'm currently looking for New Graduate oppurtunites and a possible Fall 2025/Spring 2026 Internship. Please contact me if I interest you.
+I'm currently looking for New Graduate (Spring 2026) oppurtunites and a possible Winter/Spring 2026 Internship. Please contact me if I interest you.
 
 Would be especially excited for any opportunities in the defense sector, startups, or anything cool involving AI.
 
@@ -44,7 +44,7 @@ GPA **3.67 / 4.00**
 
 ## 💼 Experience
 
-### Network Goods Institute — *Junior Full‑Stack Engineer*
+### Network Goods Institute — *Full‑Stack Engineer*
 
 [https://negationgame.com](https://negationgame.com) • **Nov 2024 – Present**
 
@@ -97,7 +97,7 @@ Interactive dispute‑resolution platform for reputation‑staking.
 
 ## 🤝 Activities
 
-* **Secretary‑Treasurer**, Association of Computing Machinery (ACM) — UCCS Chapter • Oct 2024 – Present
+* **Secretary‑Treasurer**, Association of Computing Machinery (ACM) — UCCS Chapter • Sep 2024 – Present
 
 ---
 
