@@ -1,11 +1,5 @@
 # 👋 Hi, I'm **Kaden Truett Bilyeu** (Bikatr7)
 
-Computer science senior at the **University of Colorado Colorado Springs (UCCS* looking to utilize my skills in Cyber, AI/ML, LLMs, Data Science, Full Stack and NER/NLP into software for real-world applications.
-
-**U.S. Citizen · Eligible for security clearance**
-
----
-
 ## 📫 Contact
 
 |              |                                                                                      |
@@ -18,10 +12,6 @@ Computer science senior at the **University of Colorado Colorado Springs (UCCS* 
 | **GitHub**   | [https://github.com/Bikatr7](https://github.com/Bikatr7)                             |
 | **Signal**   | bikatr7.12                                                                           |
 | **Discord**  | kadenbilyeu                                                                          |
-
-I'm currently looking for New Graduate (Spring 2026) oppurtunites. Please contact me if I interest you. I can work full time if it's remote before May.
-
-Would be especially excited for any opportunities in the defense sector, startups, or anything cool involving AI.
 
 ---
 
@@ -46,7 +36,7 @@ GPA **3.67 / 4.00**
 
 ### Network Goods Institute — *Full‑Stack Engineer*
 
-[https://negationgame.com](https://negationgame.com) • **Nov 2024 – Present**
+[https://negationgame.com](https://negationgame.com) • **Nov 2024 – Jan 2026**
 
 * Led UX prototyping for the **Negation Game**, transforming a reputation‑staking concept into interactive TypeScript mocks and iterating with stakeholders through release.
 * Built and shipped an end‑to‑end **Next.js / React 19** platform (DB→UI) that operationalizes complex dispute‑resolution logic and unlocked follow‑on research grants.
@@ -97,7 +87,7 @@ Interactive dispute‑resolution platform for reputation‑staking.
 
 ## 🤝 Activities
 
-* **Secretary‑Treasurer**, Association of Computing Machinery (ACM) — UCCS Chapter • Sep 2024 – Present
+* **Secretary‑Treasurer**, Association of Computing Machinery (ACM) — UCCS Chapter • Sep 2024
 
 ---
 
